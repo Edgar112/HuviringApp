@@ -1,0 +1,539 @@
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111-Signed.apk
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csprojAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csproj.CoreCompileInputs.cache
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\bin\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\activity_main.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\colors.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\strings.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\styles.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\R.cs.flag
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\R.txt
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\uploadflags.txt
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Core.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Core.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Core.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\registrer.xml
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Data.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\bin\Debug\System.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Data.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Data.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Security.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\source\repos\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111-Signed.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csprojAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csproj.CoreCompileInputs.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\bin\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\activity_main.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\colors.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\strings.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\styles.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\registrer.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\R.cs.flag
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\R.txt
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\uploadflags.txt
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\login.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111-Signed.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csprojAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csproj.CoreCompileInputs.cache
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\bin\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\activity_main.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\colors.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\strings.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\styles.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\registrer.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\login.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\accountsettings.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\map.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.cs.flag
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\uploadflags.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING NEW\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111-Signed.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csproj.CoreCompileInputs.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\bin\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\activity_main.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\colors.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\strings.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\styles.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\registrer.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\login.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\accountsettings.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\map.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\accountsettingsview.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.cs.flag
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.txt
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\uploadflags.txt
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Loputoo\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csprojAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.DATABASE1111111-Signed.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csprojAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.csproj.CoreCompileInputs.cache
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\DATABASE1111111.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\bin\DATABASE1111111.DATABASE1111111.apk
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\activity_main.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\colors.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\strings.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\values\styles.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\registrer.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\login.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\accountsettings.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\map.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\res\layout\accountsettingsview.xml
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.cs.flag
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\R.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\uploadflags.txt
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Core.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Data.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Security.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Desktop\HUVIRING\HUVIRING\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
