@@ -32,7 +32,7 @@
         android:id="@+id/etNimi"
         android:inputType="text" />
     <TextView
-        android:text="Mees/Naine"
+        android:text="Sugu"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_width="match_parent"
         android:layout_weight="10"

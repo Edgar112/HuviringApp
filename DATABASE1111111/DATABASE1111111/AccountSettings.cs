@@ -28,7 +28,7 @@ namespace DATABASE1111111
             etKirjeldus = FindViewById<EditText>(Resource.Id.etKirjeldus);
             btnSave = FindViewById<Button>(Resource.Id.btnSave);
             SystemLog = FindViewById<TextView>(Resource.Id.SystemLog);
-
+            SystemLog.Visibility = Android.Views.ViewStates.Invisible;
             btnSave.Click += btnSave_Click;
 
             AccountName = Intent.GetStringExtra("AccountName");

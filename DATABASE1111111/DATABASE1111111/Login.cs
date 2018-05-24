@@ -24,7 +24,7 @@ namespace DATABASE1111111
             etPass = FindViewById<EditText>(Resource.Id.etPass);
             btnLog = FindViewById<Button>(Resource.Id.btnLog);
             SystemLog = FindViewById<TextView>(Resource.Id.SystemLog);
-
+            SystemLog.Visibility = Android.Views.ViewStates.Invisible;
             btnLog.Click += btnLog_Click;
 
 

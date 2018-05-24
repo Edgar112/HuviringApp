@@ -4201,11 +4201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAPAN SO NEAR\\Desktop\\HUVIRING\\HUVIRING\\DATABASE1111111\\DATABASE1111111\\DATABASE1111111.csproj",
+      "projectUniqueName": "C:\\Users\\JAPAN SO NEAR\\Documents\\GitHub\\HuviringApp\\DATABASE1111111\\DATABASE1111111\\DATABASE1111111.csproj",
       "projectName": "DATABASE1111111",
-      "projectPath": "C:\\Users\\JAPAN SO NEAR\\Desktop\\HUVIRING\\HUVIRING\\DATABASE1111111\\DATABASE1111111\\DATABASE1111111.csproj",
+      "projectPath": "C:\\Users\\JAPAN SO NEAR\\Documents\\GitHub\\HuviringApp\\DATABASE1111111\\DATABASE1111111\\DATABASE1111111.csproj",
       "packagesPath": "C:\\Users\\JAPAN SO NEAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAPAN SO NEAR\\Desktop\\HUVIRING\\HUVIRING\\DATABASE1111111\\DATABASE1111111\\obj\\",
+      "outputPath": "C:\\Users\\JAPAN SO NEAR\\Documents\\GitHub\\HuviringApp\\DATABASE1111111\\DATABASE1111111\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
