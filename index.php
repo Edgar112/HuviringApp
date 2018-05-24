@@ -2,11 +2,10 @@
 require 'ConnectDatabase.php';
 
 $UsernameExist = false;
-
 if (isset($_POST['UserReg']) && isset($_POST['PassReg'])){
 //Registreeri
 	$User = $_POST['UserReg'];
-	$Pass = $_POST['PassReg'];
+	$Pass = password_hash($_POST['PassReg'], PASSWORD_DEFAULT);
 	
 	$sql = "SELECT Id, User, Pass FROM Account";
 	$result = $conn->query($sql);
@@ -42,9 +41,8 @@ else if (isset($_POST['UserLogin']) && isset($_POST['PassLogin'])){
 	if ($result->num_rows > 0) {
 		while($row = $result->fetch_assoc()) {
 			if($User == $row["User"]){
-				if($row["Pass"] === $Pass)
+				if(password_verify($Pass,$row["Pass"]))
 					$PasswordVerfy = true;
-					
 			}
 		}
 	}

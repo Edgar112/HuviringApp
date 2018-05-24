@@ -650,3 +650,7 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111
 C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Web.Services.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.Linq.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\bin\Debug\DATABASE1111111.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\DATABASE1111111.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\HuviringApp\DATABASE1111111\DATABASE1111111\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
